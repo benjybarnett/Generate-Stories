@@ -1,4 +1,4 @@
-# TF_story_LSTM
+# Generate-Stories
 Script for creation of children's stories using LSTM.
 
 This is an interactive Jupyter Notebook, written in Python 3.6 with Keras (TensorFlow). It allows the generation of novel
